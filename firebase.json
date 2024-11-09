@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "reportpomina2-srm",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
